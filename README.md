@@ -4,7 +4,9 @@
 
 Shuai Jia, Chao Ma, Yibing Song and Xiaokang Yang
 
-This work is based on [Robust Tracking against Adversarial Attacks](https://arxiv.org/pdf/2007.09919.pdf) in ECCV2020. [[Project]](https://github.com/VISION-SJTU/RTAA)
+This work is based on 
+- [Robust Tracking against Adversarial Attacks](https://arxiv.org/pdf/2007.09919.pdf) in ECCV2020 [[Project]](https://github.com/VISION-SJTU/RTAA)
+- [IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking](https://arxiv.org/pdf/2103.14938.pdf) in CVPR2021 [[Project]](https://github.com/VISION-SJTU/IoUattack)
 
 ## Introduction
 <img src="https://github.com/joshuajss/rtaav2/blob/main/img/pipeline.png" width='700'/><br/>
