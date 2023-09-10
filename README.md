@@ -2,7 +2,7 @@
 
 :herb: Robust Deep Object Tracking against Adversarial Attacks（Under Review）
 
-Shuai Jia, Chao Ma, Yibing Song and Xiaokang Yang
+Shuai Jia, Chao Ma, Yibing Song, Xiaokang Yang and Ming-Hsuan Yang
 
 This work is based on 
 - [Robust Tracking against Adversarial Attacks](https://arxiv.org/pdf/2007.09919.pdf) in ECCV2020 [[Project]](https://github.com/VISION-SJTU/RTAA)
