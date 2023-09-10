@@ -21,7 +21,7 @@ Deep neural networks (DNNs) are vulnerable to adversarial attacks.
 <img src="https://github.com/joshuajss/rtaav2/blob/main/img/human9_attack.gif" width='300'/>   <img src="https://github.com/joshuajss/rtaav2/blob/main/img/human9_defense.gif" width='300'/><br/>
 <img src="https://github.com/joshuajss/rtaav2/blob/main/img/legend.png" width='600'/><br/>
 
-:herb: **More demos are available at [[Video]](https://drive.google.com/file/d/1xp_xCrztCfdoyUXgnIhCOm4abUGgSPcc/view?usp=sharing)
+:herb: **More demos are available at [[Video]](https://drive.google.com/file/d/1REyTfmRvMdE9DnFHHIPBUHD0qVP3RmNO/view?usp=sharing)
  .**
 
 ## Prerequisites 
